@@ -1,2 +1,2 @@
 # Client_realese
-run basememtcleaner.exe
+run BasememtCleanerClient.exe
